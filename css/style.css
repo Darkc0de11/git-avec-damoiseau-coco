@@ -1,0 +1,15 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-image:url(../image/Group\ 46.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+
+}
